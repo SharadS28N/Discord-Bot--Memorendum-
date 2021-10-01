@@ -7,5 +7,5 @@ A all puspose Discord bot
 - Fun
 - Leveling
 
-#Speciality
+# Speciality
  The Main Specialaity of the bot is that the bot works in full slash command. 
